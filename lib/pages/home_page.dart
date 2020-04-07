@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../config/assets.dart';
 import '../tabs/about_tab.dart';
-import '../tabs/blog_tab.dart';
+import '../tabs/contact_tab.dart';
 import '../tabs/projects_tab.dart';
 import '../widgets/theme_inherited_widget.dart';
 class HomePage extends StatefulWidget {
@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
   static List<Widget> tabWidgets = <Widget>[
     AboutTab(),
     ProjectsTab(),
-    BlogTab(),
+    ContactTab(),
   ];
 
   @override
