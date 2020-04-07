@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.contact_mail),
-              title: Text('Contact'),
+              title: Text('Contact Us'),
             ),
 
           ],
