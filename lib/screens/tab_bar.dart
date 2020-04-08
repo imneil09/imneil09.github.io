@@ -58,6 +58,5 @@ class AppTabBar extends StatelessWidget {
         ),
       ),
     );
-    ;
   }
 }
