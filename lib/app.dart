@@ -1,11 +1,11 @@
-import 'package:cv/controller/data.dart';
-import 'package:cv/controller/navigation_slide.dart';
-import 'package:cv/screens/about_page.dart';
-import 'package:cv/screens/companies_page.dart';
-import 'package:cv/screens/get_in_touch_page.dart';
-import 'package:cv/screens/home_page.dart';
-import 'package:cv/screens/my_skill_page.dart';
-import 'package:cv/screens/tab_bar.dart';
+import 'package:PortfolioApp/controller/data.dart';
+import 'package:PortfolioApp/controller/navigation_slide.dart';
+import 'package:PortfolioApp/screens/about_page.dart';
+import 'package:PortfolioApp/screens/companies_page.dart';
+import 'package:PortfolioApp/screens/get_in_touch_page.dart';
+import 'package:PortfolioApp/screens/home_page.dart';
+import 'package:PortfolioApp/screens/my_skill_page.dart';
+import 'package:PortfolioApp/screens/tab_bar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
@@ -37,7 +37,7 @@ class App extends StatelessWidget {
       title: Data.WEB_TITLE,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        fontFamily: GoogleFonts.openSans().fontFamily,
+        fontFamily:GoogleFonts.openSans().fontFamily,
         accentColor: SUB_COLOR,
       ),
       home: MainPage(),

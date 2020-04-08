@@ -1,4 +1,4 @@
-import 'package:cv/app.dart';
+import 'package:PortfolioApp/app.dart';
 import 'package:flutter/material.dart';
 
 class PageTitle extends StatelessWidget {

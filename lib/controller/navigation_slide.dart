@@ -1,6 +1,6 @@
-import 'package:cv/app.dart';
-import 'package:cv/controller/data.dart';
-import 'package:cv/widget/menu_button.dart';
+import 'package:PortfolioApp/app.dart';
+import 'package:PortfolioApp/controller/data.dart';
+import 'package:PortfolioApp/widget/menu_button.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';

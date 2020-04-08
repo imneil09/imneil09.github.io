@@ -1,7 +1,7 @@
-import 'package:cv/app.dart';
-import 'package:cv/controller/data.dart';
-import 'package:cv/screens/base_page.dart';
-import 'package:cv/screens/page_title.dart';
+import 'package:PortfolioApp/app.dart';
+import 'package:PortfolioApp/controller/data.dart';
+import 'package:PortfolioApp/screens/base_page.dart';
+import 'package:PortfolioApp/screens/page_title.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;

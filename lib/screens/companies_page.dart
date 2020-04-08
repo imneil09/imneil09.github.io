@@ -1,7 +1,7 @@
-import 'package:cv/app.dart';
-import 'package:cv/screens/page_title.dart';
-import 'package:cv/widget/animated_text.dart';
-import 'package:cv/widget/react_button.dart';
+import 'package:PortfolioApp/app.dart';
+import 'package:PortfolioApp/screens/page_title.dart';
+import 'package:PortfolioApp/widget/animated_text.dart';
+import 'package:PortfolioApp/widget/react_button.dart';
 import 'package:flutter/material.dart';
 
 import 'base_page.dart';

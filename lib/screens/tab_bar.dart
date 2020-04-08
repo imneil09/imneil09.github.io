@@ -1,5 +1,5 @@
-import 'package:cv/app.dart';
-import 'package:cv/controller/data.dart';
+import 'package:PortfolioApp/app.dart';
+import 'package:PortfolioApp/controller/data.dart';
 import 'package:flutter/material.dart';
 
 import 'base_page.dart';
